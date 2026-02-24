@@ -1,0 +1,1 @@
+# Progetto_assetManagement_def
